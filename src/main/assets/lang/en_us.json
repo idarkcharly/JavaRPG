@@ -1,0 +1,13 @@
+{
+	"item.decorock.chocolate_coin": "Chocolate Coin",
+	"item.decorock.coin": "Chocolate Coin",
+	"item.decorock.aluminium_nugget": "Aluminium Nugget",
+	"item.decorock.aluminium_ingot": "Aluminium Ingot",
+
+
+	"block.decorock.first_block": "First Block",
+	
+	"creativetab.decorock.example_items_tab": "DecoItems",
+	"creativetab.decorock.example_blocks_tab": "DecoBlocks"
+
+}
